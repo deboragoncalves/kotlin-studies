@@ -11,5 +11,5 @@ fun main(args: Array<String>) {
     val beforeNumber : Int = number - 1
     val afterNumber : Int = number + 1
     
-    println("O antecessor do número $number é $beforeNumber e o sucessor é $afterNumber")
+    println("Antecessor do número $number: $beforeNumber e o sucessor: $afterNumber")
 }

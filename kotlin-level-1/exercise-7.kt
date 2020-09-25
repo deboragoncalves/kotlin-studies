@@ -13,12 +13,12 @@ fun main(args: Array<String>) {
     val note4 : Double = 5.0
     val note5 : Double = 7.0 
 
-    /* Inicializando o array com a primeira nota */
+    /* Inicializando a lista com elementos do tipo Double */
 
-    var notes = listOf(note1)
+    var notes = listOf<Double>()
 
     /* Adicionando elementos ao array */
-
+    notes += note1
     notes += note2
     notes += note3
     notes += note4

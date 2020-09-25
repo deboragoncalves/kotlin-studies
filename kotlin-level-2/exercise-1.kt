@@ -5,7 +5,7 @@ Crie funções para as 4 operações aritméticas básicas
 
  */
 
-import java.text.DecimalFormat;
+import java.text.DecimalFormat
 
 fun main(args: Array<String>) {
     /* Números */

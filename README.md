@@ -4,24 +4,24 @@
 
 ## Steps to run the exercises on Windows:
 
-#### 1. Install VS Code
+### 1. Install VS Code
 
 https://code.visualstudio.com/
 
-#### 2. In IDE, install the plugins:
+### 2. In IDE, install the plugins:
 
-##### 2.1. Code Runner;
+#### 2.1. Code Runner;
 
-##### 2.2. Kotlin Language.
+#### 2.2. Kotlin Language.
 
-#### 3. Install the Kotlin Compliler
+### 3. Install the Kotlin Compliler
 
-##### 3.1 Download the zip file: 
+#### 3.1 Download the zip file: 
 
 https://github.com/JetBrains/kotlin/releases/tag/v1.2.21
 
-##### 3.2 Inside the zip, get absolute path of "bin" folder and add this path on environment variables.
+#### 3.2 Inside the zip, get absolute path of "bin" folder and add this path on environment variables.
 
-#### 4.Run each one in VS Code, using the command CTRL + ALT + N.
+### 4. Run each one in VS Code, using the command CTRL + ALT + N.
 
 

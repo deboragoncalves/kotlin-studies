@@ -22,6 +22,6 @@ https://github.com/JetBrains/kotlin/releases/tag/v1.2.21
 
 ##### 3.2 Inside the zip, get absolute path of "bin" folder and add this path on environment variables.
 
-#### Run each one in VS Code, using the command CTRL + ALT + N.
+#### 4.Run each one in VS Code, using the command CTRL + ALT + N.
 
 
